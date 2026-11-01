@@ -6,3 +6,5 @@ Repository of the article presented at [MICAI 2026](https://micai.org/2026/) –
 
 ![enter image description here](img/dialogues.png)
 
+![enter image description here](img/poster.png)
+
